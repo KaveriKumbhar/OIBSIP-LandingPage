@@ -19,6 +19,7 @@
   max-width: var(--max-width);
   margin: auto;
   padding: 5rem 1rem;
+  
 }
 
 .section__header {
@@ -583,7 +584,7 @@ nav {
   padding-block: 2rem;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   gap: 2rem;
 }
 
@@ -605,6 +606,7 @@ nav {
   display: flex;
   align-items: center;
   gap: 2rem;
+  justify-items: center;
 }
 
 .footer__link a {
